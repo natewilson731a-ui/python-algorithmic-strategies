@@ -1,0 +1,2 @@
+pyalgotrading>=2025.9.1
+TA-Lib>=0.6.8
